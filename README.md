@@ -1,8 +1,9 @@
-### Hi there 👋
+### Hey, I'm Sai! 👋
 
-An experienced computer scientist with over 4 years of expertise in full-stack development, specializing in intelligent systems and data science. I have demonstrated success in impactful software solutions and enhancing application security, driven by innovation and continuous improvement.
+An experienced computer scientist with over 3 years of expertise in full-stack development, specializing in intelligent systems and data science. I have demonstrated success in impactful software solutions and enhancing application security, driven by innovation and continuous improvement.
 
 [Download my resume](https://www.phsaikiran.com/Sai_Prudhivi_resume.pdf)
+
 [Connect with me on LinkedIn](https://www.linkedin.com/in/phsaikiran/)
 <!--
 **phsaikiran/phsaikiran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
