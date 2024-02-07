@@ -1,6 +1,6 @@
 ### Hey, I'm Sai! 👋
 
-An experienced computer scientist with over 3 years of expertise in full-stack development, specializing in intelligent systems and data science. I have demonstrated success in impactful software solutions and enhancing application security, driven by innovation and continuous improvement.
+I am an experienced software developer with over 3 years of expertise in Java full-stack development, specializing in intelligent systems and data science. I have demonstrated success in impactful software solutions and enhancing application security, driven by innovation and continuous improvement.
 
 [Download my resume](https://www.phsaikiran.com/Sai_Prudhivi_resume.pdf)
 
