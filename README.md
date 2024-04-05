@@ -1,6 +1,6 @@
 ### Hey, I'm Sai! 👋
 
-I am an experienced software developer with over three years of expertise in full-stack development, specializing in technologies such as Java, React.js, AWS, SQL, Kafka, and Kubernetes. My proficiency lies in implementing scalable solutions through Kubernetes and microservices. I have a knack for optimizing performance through caching, which has led to achieving sub-100ms response times for critical REST APIs.
+I am an experienced software developer with over three years of expertise in full-stack development, specializing in technologies such as Java, React.js, AWS, SQL, Kafka, and Kubernetes. My proficiency lies in implementing scalable solutions through Kubernetes and microservices, and I have a knack for optimizing performance through caching, which has led to achieving sub-100ms response times for critical REST APIs.
 
 [Download my resume](https://www.phsaikiran.com/Sai_Prudhivi_resume.pdf)
 
